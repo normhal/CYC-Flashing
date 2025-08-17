@@ -1,0 +1,13 @@
+ID,Name,Address,Image,Type
+0,Back Crossover,4,202,
+1,Merge,3,202,
+2,Industrial Stub,2,210,
+3,Front Crossover,1,206,
+4,Spare1,104,210,
+5,Spare2,105,206,
+6,Spare3,106,202,
+7,Spare4,107,214,
+8,Spare5,108,202,
+9,Spare6,109,214,
+10,Spare7,110,202,
+11,Spare8,111,214,
